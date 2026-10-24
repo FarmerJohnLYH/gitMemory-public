@@ -49,7 +49,7 @@ gitMemory-personal-vault/
 ├── finance/
 ├── travel/
 ├── supplements/              # 暂无法归类的补充材料
-└── email/farmerjohnlyh@gmail.com/
+└── email/
 
 Google Drive / gitMemory/
 ├── identity/
